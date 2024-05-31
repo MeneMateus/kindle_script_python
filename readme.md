@@ -32,7 +32,3 @@ Este script Python processa um arquivo de destaques de livros no formato TXT e c
 
 - `--output-dir`: Especifica o diretório de saída para os arquivos Markdown. Por padrão, os arquivos são salvos na pasta "output".
 
-## Exemplo de arquivo de destaques de livros
-
-Um exemplo do formato esperado do arquivo de destaques de livros é fornecido abaixo:
-
